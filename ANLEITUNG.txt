@@ -1,0 +1,20 @@
+NEULAND WETTKAMPFERFASSUNG - GITHUB PAGES (VERSION 15)
+
+1. Auf github.com ein kostenloses Konto anmelden.
+2. Ein neues PUBLIC Repository anlegen, z. B. neuland-wettkampf.
+3. ZIP entpacken. Alle Dateien aus dem Ordner in die oberste Ebene des Repositorys hochladen (Add file > Upload files > Commit changes).
+   WICHTIG: index.html muss direkt im Hauptverzeichnis liegen. ZIP NICHT als einzige Datei hochladen.
+4. Settings > Pages > Build and deployment > Source: Deploy from a branch.
+   Branch: main, Folder: /(root). Speichern.
+5. Nach der Bereitstellung die angezeigte HTTPS-Adresse auf iPhone in Safari oder auf Android in Chrome öffnen.
+6. iPhone: Safari > Teilen > Zum Home-Bildschirm.
+   Android: Chrome-Menü > App installieren / Zum Startbildschirm hinzufügen.
+
+HINWEISE
+- Alle Ergebnisse und Unterschriften werden lokal auf dem jeweiligen Gerät gespeichert.
+- Bereits lokal erfasste Daten werden nicht automatisch auf die neue Webadresse übernommen.
+- Nutze die Funktion 'Alle Daten sichern' und 'Datensicherung einlesen' für den Umzug.
+- Für den Import muss die Sicherungsdatei vorher aus der alten Version exportiert worden sein.
+- GitHub Pages stellt die App öffentlich bereit. Die Wettkampfdaten werden nicht automatisch zu GitHub hochgeladen.
+- WhatsApp-/E-Mail-Anhänge können nicht auf jedem Smartphone automatisch übergeben werden; ggf. PDF zuerst speichern und manuell anhängen.
+- Die Browserfunktionen sollten auf einem echten iPhone und Android-Gerät getestet werden.
