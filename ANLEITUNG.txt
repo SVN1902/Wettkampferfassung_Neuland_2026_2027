@@ -1,5 +1,4 @@
-Version 16 - GitHub Pages
-Alle Dateien und template-*.jpg in das Hauptverzeichnis des GitHub-Repositories hochladen. GitHub Pages: main / (root).
-PDF: Originalbogen als Bildvorlage mit Ergebnissen. QR: Link mit Ringzahlen, ohne Unterschriften.
-WhatsApp/Mail: Teilen-Menue des Betriebssystems, wenn Browser Dateifreigabe unterstuetzt.
-Bestehende Ergebnisse bleiben unter derselben URL im selben Browser erhalten. Vorher Datensicherung erstellen.
+Version 17: PDF-Layout wieder wie Version 15. QR-Code mit komprimierten Ringzahlen.
+Alle 8 Dateien in das Hauptverzeichnis des GitHub-Repositories hochladen; vorhandene Dateien ersetzen.
+Alte template-*.jpg und app-v16.js duerfen geloescht werden, sind fuer v17 nicht notwendig.
+Nach dem Upload Webseite neu laden; bei installierter PWA ggf. schliessen und neu oeffnen.
