@@ -1,4 +1,3 @@
-Version 18: QR-Code oeffnet direkt die ausgefuellte Ergebnisbogen-Vorschau im Nur-Lesen-Modus.
-Alle Dateien in das Hauptverzeichnis des GitHub-Repositories hochladen. Bestehende Dateien ersetzen.
-Alte qr-v17.js darf geloescht werden. Nach dem Update die Webseite auf Smartphones neu laden.
-QR-Link ist eine Momentaufnahme ohne Unterschriften. Ergebnisse bleiben lokal gespeichert.
+Neuland Wettkampferfassung Version 19
+Alle Dateien in das Hauptverzeichnis des GitHub-Repositories hochladen. index.html, sw.js und qr-v19.js aktualisieren. qr-v18.js kann entfernt werden.
+Neu: Optionales Datum "Wettkampf verlegt auf den" je Wettkampf. Anzeige im Ergebnisbogen, PDF und QR-Link. Ergebnisse bleiben lokal gespeichert.
