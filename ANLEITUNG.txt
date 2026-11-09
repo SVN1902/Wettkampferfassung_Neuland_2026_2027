@@ -1,4 +1,4 @@
-Version 17: PDF-Layout wieder wie Version 15. QR-Code mit komprimierten Ringzahlen.
-Alle 8 Dateien in das Hauptverzeichnis des GitHub-Repositories hochladen; vorhandene Dateien ersetzen.
-Alte template-*.jpg und app-v16.js duerfen geloescht werden, sind fuer v17 nicht notwendig.
-Nach dem Upload Webseite neu laden; bei installierter PWA ggf. schliessen und neu oeffnen.
+Version 18: QR-Code oeffnet direkt die ausgefuellte Ergebnisbogen-Vorschau im Nur-Lesen-Modus.
+Alle Dateien in das Hauptverzeichnis des GitHub-Repositories hochladen. Bestehende Dateien ersetzen.
+Alte qr-v17.js darf geloescht werden. Nach dem Update die Webseite auf Smartphones neu laden.
+QR-Link ist eine Momentaufnahme ohne Unterschriften. Ergebnisse bleiben lokal gespeichert.
